@@ -1,10 +1,12 @@
-## RWARE: A multi-agent reinforcement learning environment
+## Training RWARE: A multi-agent reinforcement learning environment
 
+About: This repository employs Deep Q-Network (DQN) for training robots for coordination in the RWARE environment as part of the Multi-Agent Reinforcement Learning (2024-02) course. The following is the description of the environment.
+
+----------------------------------------
 
 **WARNING**: This is a **fork** meant as an archive of the code used in our publications. Development is still active in the [original repository](https://github.com/semitable/robotic-warehouse). Please redirect any issues, PRs, or questions there.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 > [!CAUTION]
 > The RWARE environment was updated to support the new [Gymnasium](https://gymnasium.farama.org/) interface in replacement of the deprecated `gym=0.21` dependency (many thanks @LukasSchaefer). For backwards compatibility, please see [Gymnasium compatibility documentation](https://gymnasium.farama.org/content/gym_compatibility/) or use version v1.0.3 of the repository. The main changes to the interface are as follows:
