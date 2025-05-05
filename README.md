@@ -1,6 +1,5 @@
 <p align="center">
- <img width="350px" src="docs/img/rware.png" align="center" alt="Multi-Robot Warehouse (RWARE)" />
- <p align="center">A multi-agent reinforcement learning environment</p>
+ <p align="center">RWARE: A multi-agent reinforcement learning environment</p>
 </p>
 
 **WARNING**: This is a **fork** meant as an archive of the code used in our publications. Development is still active in the [original repository](https://github.com/semitable/robotic-warehouse). Please redirect any issues, PRs, or questions there.
